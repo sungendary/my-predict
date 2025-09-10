@@ -1,1 +1,1 @@
-연습중
+git practice
